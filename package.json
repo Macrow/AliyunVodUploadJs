@@ -1,6 +1,6 @@
 {
   "name": "@macrow/aliyun-vod-upload-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "阿里云点播视频上传web端",
   "main": "lib/index.js",
   "scripts": {},
